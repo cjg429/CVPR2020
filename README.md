@@ -76,7 +76,7 @@
 
 5. K L Navaneet, Ansu Mathew, Shashank Kashyap, Wei-Chih Hung, Varun Jampani, R. Venkatesh Babu **From Image Collections to Point Clouds With Self-Supervised Shape and Pose Networks** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Navaneet_From_Image_Collections_to_Point_Clouds_With_Self-Supervised_Shape_and_CVPR_2020_paper.pdf)[[video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/7375/7375-1min.mp4) - Jaegu
 
-6. Hongyi Xu, Eduard Gabriel Bazavan, Andrei Zanfir, William T. Freeman, Rahul Sukthankar, Cristian Sminchisescu **GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_GHUM__GHUML_Generative_3D_Human_Shape_and_Articulated_Pose_CVPR_2020_paper.pdf)[[video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/9511/9511-oral.mp4)
+6.Siva Karthik Mustikovela, Varun Jampani, Shalini De Mello, Sifei Liu, Umar Iqbal, Carsten Rother, Jan Kautz **Self-Supervised Viewpoint Learning From Image Collections** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mustikovela_Self-Supervised_Viewpoint_Learning_From_Image_Collections_CVPR_2020_paper.pdf)[[video]](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/322/322-1min.mp4) - jaegu
 
 
 ### Feature Detection

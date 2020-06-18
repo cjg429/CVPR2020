@@ -74,7 +74,7 @@
 
 4. Jingwei Xu, Zhenbo Yu, Bingbing Ni, Jiancheng Yang, Xiaokang Yang, Wenjun Zhang **Deep Kinematics Analysis for Monocular 3D Human Pose Estimation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Deep_Kinematics_Analysis_for_Monocular_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf) - Seunggyu
 
-5. K L Navaneet, Ansu Mathew, Shashank Kashyap, Wei-Chih Hung, Varun Jampani, R. Venkatesh Babu **From Image Collections to Point Clouds With Self-Supervised Shape and Pose Networks** [[paper]] (http://openaccess.thecvf.com/content_CVPR_2020/papers/Navaneet_From_Image_Collections_to_Point_Clouds_With_Self-Supervised_Shape_and_CVPR_2020_paper.pdf) - Jaegu
+5. K L Navaneet, Ansu Mathew, Shashank Kashyap, Wei-Chih Hung, Varun Jampani, R. Venkatesh Babu **From Image Collections to Point Clouds With Self-Supervised Shape and Pose Networks** [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Navaneet_From_Image_Collections_to_Point_Clouds_With_Self-Supervised_Shape_and_CVPR_2020_paper.pdf) - Jaegu
 
 
 ### Feature Detection

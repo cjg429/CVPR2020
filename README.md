@@ -74,6 +74,8 @@
 
 4. Jingwei Xu, Zhenbo Yu, Bingbing Ni, Jiancheng Yang, Xiaokang Yang, Wenjun Zhang **Deep Kinematics Analysis for Monocular 3D Human Pose Estimation** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Deep_Kinematics_Analysis_for_Monocular_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf) - Seunggyu
 
+5. Xiaolong Li, He Wang, Li Yi, Leonidas J. Guibas, A. Lynn Abbott, Shuran Song **Category-Level Articulated Object Pose Estimation** [[paper]] [[video]] https://youtu.be/S8Amc6D8SKY
+
 ### Feature Detection
 1. Paul-Edouard Sarlin, et al., **SuperGlue: Learning Feature Matching with Graph Neural Networks.** [[Paper]](https://arxiv.org/pdf/1911.11763.pdf) [[Code]](https://github.com/magicleap/SuperGluePretrainedNetwork) - Yunho
 
